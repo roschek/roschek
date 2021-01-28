@@ -1,3 +1,5 @@
+http://www.dusterclubs.ru/vb/attachment.php?attachmentid=130688&stc=1&d=1604672287
+
 ### Hi there 👋
 ![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
 ![react](https://img.shields.io/badge/React-maroon?style=for-the-badge&logo=react&labelColor=white)
