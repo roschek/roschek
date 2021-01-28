@@ -1,4 +1,4 @@
-http://www.dusterclubs.ru/vb/attachment.php?attachmentid=130688&stc=1&d=1604672287
+(http://www.dusterclubs.ru/vb/attachment.php?attachmentid=130688&stc=1&d=1604672287)
 
 ### Hi there 👋
 ![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
