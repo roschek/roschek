@@ -10,8 +10,8 @@
 ![Dart/Flutter](https://img.shields.io/badge/DART-cyan?style=for-the-badge&logo=git&labelColor=white)
 
 
-- 🔭 I’m currently working on JavaScript, Vue
-- 🌱 I’m currently learning React, Redux, Vue, TypeScript
+- 🔭 I’m currently working on JavaScript, Vue, Dart, Flutter
+- 🌱 I’m currently learning React, Redux, Vue, TypeScript, Dart, Flutter
 - 👯 I’m looking for **job**...
 
 
