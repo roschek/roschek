@@ -2,6 +2,7 @@
 
 ### Hi there 👋
 ![js](https://img.shields.io/badge/JavaScript-gold?style=for-the-badge&logo=javascript&labelColor=white)
+![Vue](https://img.shields.io/badge/Vue-mediumseagreen?style=for-the-badge&logo=react&labelColor=white)
 ![react](https://img.shields.io/badge/React-maroon?style=for-the-badge&logo=react&labelColor=white)
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=HTML5&labelColor=white)
 ![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&labelColor=white)
