@@ -7,7 +7,7 @@
 ![SASS](https://img.shields.io/badge/SASS-pink?style=for-the-badge&logo=SASS&labelColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-blue?style=for-the-badge&logo=webpack&labelColor=white)
 ![Git](https://img.shields.io/badge/GIT-red?style=for-the-badge&logo=git&labelColor=white)
-![Dart](https://img.shields.io/badge/DART-cyan?style=for-the-badge&logo=git&labelColor=white)
+![Dart/Flutter](https://img.shields.io/badge/DART-cyan?style=for-the-badge&logo=git&labelColor=white)
 
 
 - 🔭 I’m currently working on JavaScript, Vue
