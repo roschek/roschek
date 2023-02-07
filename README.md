@@ -21,7 +21,7 @@
 [![Telegram](https://img.shields.io/badge/TELEGRAM-blue?style=for-the-badge&logo=telegram&labelColor=white)](https://tlgg.ru/roscheka)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=Linkedin&labelColor=white&logoColor=blue)](https://www.linkedin.com/in/alexey-roschektaev-4b662810b)
 
-email: roschek@yandex.ru
+email: roscheka@gmail.com
 
 *****
 
