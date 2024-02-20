@@ -12,9 +12,6 @@
 
 
 - 🔭 I’m currently working on JavaScript, Vue, React, MobX, Dart, Flutter
-- 🌱 I’m currently learning React, Redux, Vue, TypeScript, Dart, Flutter
-- 👯 I’m looking for **job**...
-
 
 ### **Reach me**
 
